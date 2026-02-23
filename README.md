@@ -1,5 +1,12 @@
 # cognitive-chain-processor-94
 
+Production-grade project scaffold focused on reliability, maintainability, and fast onboarding.
+
+[![CI](https://img.shields.io/github/actions/workflow/status/yksanjo/cognitive-chain-processor-94/ci.yml?branch=main&label=ci)](https://github.com/yksanjo/cognitive-chain-processor-94/actions)
+![License](https://img.shields.io/github/license/yksanjo/cognitive-chain-processor-94)
+![Last Commit](https://img.shields.io/github/last-commit/yksanjo/cognitive-chain-processor-94)
+![Repo Size](https://img.shields.io/github/repo-size/yksanjo/cognitive-chain-processor-94)
+
 ## Detailed Description
 
 cognitive-chain-processor-94 is maintained as an industry-grade software project with production-ready engineering practices.  
